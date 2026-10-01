@@ -1,1 +1,0 @@
-# Praktikum PAM RA
