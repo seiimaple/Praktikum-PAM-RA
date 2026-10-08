@@ -20,9 +20,8 @@ Proyek ini merupakan kelanjutan dari "My Profile App" (Praktikum 3) yang telah d
 
 ## Screenshot Aplikasi
 
-|        Tampilan Utama (Light Mode)         |            Tampilan Edit Profil            |             Tampilan Dark Mode             |
-|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
-| <img src="screenshots/1.jpeg" width="250"> | <img src="screenshots/2.jpeg" width="250"> | <img src="screenshots/3.jpeg" width="250"> |
+|        Tampilan Utama (Light Mode)        |           Tampilan Edit Profil            |            Tampilan Dark Mode             |
+|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
+| <img src="screenshots1.jpeg" width="250"> | <img src="screenshots2.jpeg" width="250"> | <img src="screenshots3.jpeg" width="250"> |
 
 ---
-*Praktikum Pengembangan Aplikasi Mobile 2024/2025*
