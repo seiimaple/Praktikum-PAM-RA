@@ -22,6 +22,4 @@ Proyek ini merupakan kelanjutan dari "My Profile App" (Praktikum 3) yang telah d
 
 |        Tampilan Utama (Light Mode)        |           Tampilan Edit Profil            |            Tampilan Dark Mode             |
 |:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
-| <img src="screenshots1.jpeg" width="250"> | <img src="screenshots2.jpeg" width="250"> | <img src="screenshots3.jpeg" width="250"> |
-
----
+| <img src="screenshots/screenshots1.jpeg" width="250"> | <img src="screenshots/screenshots2.jpeg" width="250"> | <img src="screenshots/screenshots3.jpeg" width="250"> |
